@@ -14,3 +14,4 @@ Fast React Pizza is a simple pizza ordering application built with **Vanilla Rea
 - **React** (Vanilla React without additional libraries)
 - **Redux** for state management
 - **React Router** for navigation
+- **Tailwind CSS** for styling
